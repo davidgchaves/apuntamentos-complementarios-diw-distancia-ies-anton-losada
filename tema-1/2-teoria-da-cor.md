@@ -3,7 +3,7 @@
 ## 2.1 Modos e mixturado de cores
 
 - **Mixturado de cores substrativo (CMYK)**: cian, maxenta, amarelo (e máis o negro (K)). Moi utilizado en imprenta.
-- **Mixturado de cores adivitivo (RGB)**: vermello, verde e azul (a suma dos tres é o branco). Se traballas cunha computadora, traballas en aditivo.
+- **Mixturado de cores aditivo (RGB)**: vermello, verde e azul (a suma dos tres é o branco). Se traballas cunha computadora, traballas en aditivo.
 
 ![CMYK vs RGB](./img/additive-vs-substractive.png)
 
@@ -37,7 +37,7 @@ O carácter aditivo ou substrativo refírese á luz (que se engade ou se substra
 
 ### 2.2.4 Triádico
 
-- Conxuntos de 3 cores equiespaciados.
+- Conxuntos de 3 cores equiespaciadas.
 
 ![Combinación triádica](./img/triadico.png)
 

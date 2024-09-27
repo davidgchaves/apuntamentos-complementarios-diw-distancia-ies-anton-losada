@@ -33,7 +33,7 @@ Pode ser sans ou serif. En calqueira dos casos debe ser unha fonte que:
 
 ### 3.1.7 Novelty
 
-Son doadas de identificar; moitas parecen sacada dunha novela romántica do século XIX. Calquera fonte que destaque por extraña e peculiar, probablemente poida considerarse _novelty_.
+Son doadas de identificar; moitas parecen sacadas dunha novela romántica do século XIX. Calquera fonte que destaque por extraña e peculiar, probablemente poida considerarse _novelty_.
 
 ## 3.2 Onde conseguir/mercar fontes
 
@@ -63,7 +63,7 @@ Google Fonts ten unha ferramenta que permite emparellar fontes e ver o resultado
 
 Ainda que pareza contra-intuitivo unha mesma parella de fontes pode emparellar ben e mal ao mesmo tempo 😂😂😂, depende de para que.
 
-Por exemplo, as dúas capturas seguintes emparellan as mesmas fontes (Lato e Oswald), pero según o seu uso funcionan o non.
+Por exemplo, as dúas capturas seguintes emparellan as mesmas fontes (Lato e Oswald). Nun caso funcionan. No outro, non.
 
 A parella Lato-Oswald non parece que funcione ⚠️❌⚠️
 
@@ -90,7 +90,7 @@ Algunhas posibles parellas:
 
 Por poñer un exemplo, trata temas como:
 
-1. A diverxencia na **capacide de atención** entre o que escribe (neste caso o que diseña) e o que le (no noso caso o que consulta unha web).
+1. A diverxencia na **capacide de atención** entre a que escribe (neste caso a que diseña) e a que le (no noso caso a que consulta unha web).
 2. O impacto da **lonxitude de liña** nun texto, e como afecta á fatiga visual e cognitiva (recomenda entre 45 e 90 caracteres por liña).
 
 ![Sobre a lonxitude de liña](./img/line-length.png)
@@ -120,7 +120,7 @@ A cita é de [Michael Riethmuller](https://www.madebymike.com.au/) que ten 2 art
 
 > _"Un bloqueo de tipos é un deseño tipográfico onde as palabras e os caracteres teñen un estilo e están dispostos de forma moi específica. Como se o deseño estivese literalmente bloqueado nunha posición."_
 
-Cita de Geoff Graham. Tanto el coma Chris Coyier (creador de [CSS Tricks](https://css-tricks.com/) e co-creador do [codepen.io](https://codepen.io/) contan con sendos artigos seminais sobre o tema:
+Cita de Geoff Graham. Tanto el coma Chris Coyier (creador de [CSS Tricks](https://css-tricks.com/) e co-creador do [codepen.io](https://codepen.io/)) contan con sendos artigos seminais sobre o tema:
 
 - [Creating a Web Type Lockup de Chris Coyier en CSS Tricks](https://css-tricks.com/creating-web-type-lockup/)
 - [Text Lock-Up en CSS-Tricks de de Geoff Graham, tamén en CSS Tricks](https://css-tricks.com/snippets/svg/text-lock-up/)
@@ -144,32 +144,30 @@ Un **exemplo dramático de _kerning_ erróneo** 🤦‍♀️🤦‍♀️ que a
 
 ![_click_ ou _dick_](./img/kerning-gone-wrong.png)
 
-Explicar o malentendido anula a sua gracia... pero ainda así: _dick_ ou _click_?
+Explicar o malentendido anula a gracia... pero ainda así... 😇 _dick_ ou _click_ 😇?
 
 ### 3.6.3 _Leading_ ou interlineado
 
 O **_leading_ ou interlineado** é a distancia entre as liñas de texto. Do mesmo xeito que o tamaño da fonte, esta distancia mídese en diferentes unidades, aínda que os puntos (`pt`), porcentaxes e `em` son as unidades máis comúns. (`line-height` en termos CSS)
 
-A **orixe do termo** remóntase ao século XVIII cando nas imprentas, para separar as liñas de texto entre si (o texto era de chumbo, por certo) usábanse tiras de chumbo (_lead_). Se querías máis separación precisabas tiras de chumbo extra. Daí o termo e a súa curiosa pronuncia en inglés ('ledding', non 'leeding').
+A **orixe do termo** remóntase ao século XVIII cando nas imprentas, para separar as liñas de texto entre si usábanse tiras de chumbo (_lead_). Se querías máis separación precisabas tiras de chumbo extra. Daí o termo e a súa curiosa pronuncia en inglés ('ledding', non 'leeding').
 
 ### 3.6.4 _Widows_ e orfos
-
-**NOTA**: widows (_viúvas_) é o termo que se utiliza tradicionalmente, por eso o recollo. Se non atopades un termo mellor e incomódavos as **evidentes connotacións machistas**, probade a usar o masculino _viúvos_. Nestes apuntamentos recollerei o termo en inglés (_widow_) que, para as galegofalantes (ou castelánparlantes), ten algo menos de connotación negativa pola barreira idiomática e ainda así permite ser buscado na web en caso de necesidade.
 
 ![Exemplo de _widow_ e _orfo_](./img/widow-e-orfo.png)
 
 - **widow**: unha palabra sóa ao final dun parágrafo en liña propia e sen salto de bloque.
 - **orfo**: unha liña sóa ao final dun parágrafo e con salto de bloque.
 
-Ambos termos refírense a características **non desexadas** nun texto.
+Ambos termos refírense a características **non desexadas** nun texto. Decidín non traducir o termo widows (_viúvas_) polas **evidentes connotacións machistas**. Nestes apuntamentos recollerei o termo en inglés (_widow_).
 
 ### 3.6.5 Ligaduras
 
-Unha **ligadura** acontece cando dous ou maís grafemas ou letras únense (_líganse_, daí o termo) para converterse nun so glifo.
+Unha **ligadura** acontece cando dous ou maís grafemas ou letras se unen (_se lígan_, daí o termo) para se converter nun so glifo.
 
 Hai quen aprecia maior lexibilidade con ligaduras, hai quen aprecia o contrario.
 
-Dende vai uns anos está moi de moda utilizar fontes con ligaduras en programación. [FiraCode](https://github.com/tonsky/FiraCode) é unha fonte gratuita moi famosa e utilizada por moitas programadoras. A seguinte táboa (sacada da súa web) ilustra perfectamente o concepto
+Dende vai uns anos está moi de moda utilizar fontes con ligaduras en programación. [FiraCode](https://github.com/tonsky/FiraCode) é unha fonte gratuita moi famosa e utilizada por moitas programadoras. A seguinte táboa (sacada da súa web) ilustra perfectamente o concepto.
 
 ![Ligaturas Fira Code por linguaxe de programación](./img/fira-code-ligatures.png)
 

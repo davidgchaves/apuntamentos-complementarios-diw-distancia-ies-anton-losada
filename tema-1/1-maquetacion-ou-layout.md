@@ -89,11 +89,11 @@ Abordar só un problema á vez:
 
 ![](./img/circles-draw-your-eye.png)
 
-- Os círculos tenden a atrapar a nosa atención máis que ningunha outra forma xeométrica (probablemente pola necesidade que temos de recoñecer a outros seres humanos: teoría dos ollos e facianas)
+- Os círculos tenden a atrapar a nosa atención máis que ningunha outra forma xeométrica (probablemente pola necesidade que temos de recoñecer a outros seres humanos: teoría dos ollos e facianas).
 
 ### 1.5.2 _Saccade_ ou movementos sacádicos
 
-- [**_Saccade_** ou **movemento ocular sacádico**](https://es.wikipedia.org/wiki/Movimientos_sac%C3%A1dicos): a finalidade dos **movementos sacádicos** pode ilustrarse mediante o ollo. Os humanos, polo xeral, non miran unha escena de forma estática. No canto disto, os ollos móvense, buscando as partes interesantes e construíndo un mapa mental referente a ela
+- [**_Saccade_** ou **movemento ocular sacádico**](https://es.wikipedia.org/wiki/Movimientos_sac%C3%A1dicos): a finalidade dos **movementos sacádicos** pode ilustrarse mediante o ollo. Os humanos, polo xeral, non miran unha escena de forma estática. No canto disto, os ollos móvense, buscando as partes interesantes e construíndo un mapa mental referente a ela.
 
 ![Exemplo de _saccade_](./img/saccade.png)
 
@@ -146,7 +146,7 @@ A **alineación dos círculos** é 😱😱😱 _lixeiramente desalineada_ 😱�
 ![Exemplo de retículas e ancorado invisible](./img/ancorado-invisible-1.png)
 
 - Incluso cando **non se ve a retícula**, a relación entre retículas e ancorado nos elementos dun deseño é moi importante.
-- Dito doutro xeito, o ancorado a retículas invisibles dá cohesividade ao deseño.
+- Dito doutro xeito, o ancorado a retículas invisibles dá cohesión ao deseño.
 
 ![Outro exemplo de retículas e ancorado invisible](./img/ancorado-invisible-2.png)
 
@@ -154,4 +154,4 @@ A **alineación dos círculos** é 😱😱😱 _lixeiramente desalineada_ 😱�
 
 - **Photoshop / GIMP**: útil para `jpg`s, bitmaps,  máscaras, transparencias, efectos, filtros.
 - **Illustrator / Inkscape**: vectores, `svg`s.
-- **Sketch**: a ferramenta máis moderna e recente. Arrasou na nova xeración de deseñadoras. Moi eficiente á hora de agrupar múltiples ideas nun só sitio; por exemplo, podemos ter nun mesmo _artboard_ unha vista máis orientada a un monitor, a un mobil e a unha tablet.
+- **Sketch**: a ferramenta máis moderna e recente. Arrasou na nova xeración de deseñadoras. Moi eficiente á hora de agrupar múltiples ideas nun só sitio; por exemplo, podemos ter nun mesmo _artboard_ unha vista máis orientada a un monitor, a un móbil e a unha tableta.
